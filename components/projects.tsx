@@ -35,7 +35,7 @@ const projects = [
     description: "A responsive and interactive personal portfolio showcasing projects, skills, and contact information. Built with React, Tailwind CSS, and Framer Motion to deliver smooth animations, modern UI/UX design, and a clean layout optimized for all devices.",
     image: "/Protfolio.png?height=400&width=600",
     technologies: ["React", "Framer Motion", "Tailwind CSS"],
-    github: "#",
+    github: "https://github.com/chinmaypaliwal1/portfolio",
     demo: "#",
   },
   {
